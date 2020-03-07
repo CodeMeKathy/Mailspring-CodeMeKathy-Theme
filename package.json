@@ -1,13 +1,12 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "codemekathy-theme",
+  "title": "CodeMeKathy Theme",
+  "displayName": "CodeMeKathy Theme",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A great darker theme with pops of color.",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
   }
 }
-
