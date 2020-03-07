@@ -9,7 +9,7 @@ we don't have to do much to create a totally different look.
 Note: This file needs to be named ui-variables.less so other
 stylesheets can call `@import "ui-variables";` and reference it.
 */
-@import "ui-variables";
+@import 'ui-variables';
 
 /*
 After changing variables to set a base for our theme, we can use
@@ -43,6 +43,7 @@ img.content-light {
 }
 
 #message-list .message-item-wrap .message-item-white-wrap {
+  // box-shadow: #40c0cb;
   box-shadow: 0 0 0.5px rgba(255, 255, 255, 0.28),
     0 1px 1.5px rgba(255, 255, 255, 0.08);
 }
